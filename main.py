@@ -10,5 +10,6 @@ def index():
 def get_name():
     return "Тагир"
 
+
 if __name__ == '__main__':
     app.run()
